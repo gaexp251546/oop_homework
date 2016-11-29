@@ -1,0 +1,15 @@
+﻿已經開始建置於 2016/10/7 下午 02:31:12。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\Allen\Desktop\hw1(c)\HW1\HW1.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\allen\desktop\hw1(c)\hw1\source.cpp(23): warning C4554: '&' : 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+     1>c:\users\allen\desktop\hw1(c)\hw1\source.cpp(26): warning C4554: '&' : 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Allen\Desktop\hw1(c)\Debug\HW1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Allen\Desktop\hw1(c)\Debug\HW1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Allen\Desktop\hw1(c)\Debug\HW1.lib" /MACHINE:X86 Debug\Source.obj
+         HW1.vcxproj -> C:\Users\Allen\Desktop\hw1(c)\Debug\HW1.exe
+     1>專案 "C:\Users\Allen\Desktop\hw1(c)\HW1\HW1.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:04.15
